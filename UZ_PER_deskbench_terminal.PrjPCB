@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=UZ_D_Template.PcbDoc
+DocumentPath=UZ_PER_deskbench_terminal.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GZATAJRJ
 
 [Document4]
-DocumentPath=DigitalCarrierJack.SchDoc
+DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TOUXSEWW
 
 [Document5]
-DocumentPath=DigitalCarrierJack.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=uz_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,24 +144,24 @@ Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=A. Musterfrau
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=A. Musterfrau
+Name=ProjectNameCustom
+Value=UZ_PER_deskbench_terminal
 
 [Parameter3]
 Name=FinDate
-Value=02/23
+Value=04/23
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_Template
+Name=AuthorParam
+Value=D. Hufnagel
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=D. Hufnagel
 
 [Configuration1]
 Name=Sources
