@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 13:50:31 On 21.04.2023
-
-Output: BOM_JLC
-Type  : BOM
-From  : Variant [Differential_Input] of Project [UZ_PER_deskbench_terminal.PrjPCB]
-   Generated File[BOM_JLC-UZ_PER_deskbench_terminal.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UZ_PER_deskbench_terminal.PcbDoc]
+   Generated File[UZ_PER_deskbench_terminal.TXT]
+   Generated File[UZ_PER_deskbench_terminal.LDP]
+   Generated File[UZ_PER_deskbench_terminal.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 13:50:44 On 21.04.2023
+Finished Output Generation At 14:10:23 On 21.04.2023

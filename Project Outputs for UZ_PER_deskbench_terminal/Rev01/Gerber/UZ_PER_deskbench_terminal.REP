@@ -2,43 +2,6 @@
 FileName = UZ_PER_deskbench_terminal.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : UZ_PER_deskbench_terminal.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D12
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : UZ_PER_deskbench_terminal.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : UZ_PER_deskbench_terminal.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : UZ_PER_deskbench_terminal.GBS
 
@@ -115,27 +78,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : UZ_PER_deskbench_terminal.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
 Generating : Layer 2
       File : UZ_PER_deskbench_terminal.G2
 
@@ -174,6 +116,64 @@ Generating : Top Layer
 
 Used DCodes :
     D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : UZ_PER_deskbench_terminal.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UZ_PER_deskbench_terminal.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UZ_PER_deskbench_terminal.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UZ_PER_deskbench_terminal.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D26
     D27
     D28
