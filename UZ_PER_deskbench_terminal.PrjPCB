@@ -143,6 +143,10 @@ VariationCount=1
 Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_PER_deskbench_terminal\Design Rule Check - UZ_PER_deskbench_terminal.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Author
 Value=D. Hufnagel
