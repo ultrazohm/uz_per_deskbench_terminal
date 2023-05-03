@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UZ_PER_deskbench_terminal.PcbDoc   03.05.2023  10:55:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UZ_PER_deskbench_terminal.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      43mil (1.09mm)                                            Round             9         PTH        1.01inch (25.71mm)
+T2      51mil (1.3mm)                                             Round             6         PTH        1.00inch (25.40mm)
+T3      53mil (1.35mm)                                            Round             12        PTH        3.99inch (101.44mm)
+T4      55mil (1.4mm)                                             Round             6         PTH        1.00inch (25.40mm)
+T5      89mil (2.25mm)                                            Round             3         PTH        1.20inch (30.40mm)
+T6      126mil (3.2mm)                                            Round             4         PTH        7.09inch (180.18mm)
+T7      128mil (3.26mm)                                           Round             2         PTH        0.98inch (24.99mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              42
+
+Total Processing Time (hh:mm:ss) : 00:00:00
