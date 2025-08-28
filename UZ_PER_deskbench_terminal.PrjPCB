@@ -148,28 +148,24 @@ DocumentPath=Project Outputs for UZ_PER_deskbench_terminal\Design Rule Check - U
 DItemRevisionGUID=
 
 [Parameter1]
-Name=
-Value=
+Name=Author
+Value=D. Hufnagel/MH
 
 [Parameter2]
-Name=ProjectRevision
-Value=Rev02b
-
-[Parameter3]
-Name=ProjectNameCustom
-Value=UZ_PER_deskbench_terminal
-
-[Parameter4]
-Name=FinDate
-Value=08/25
-
-[Parameter5]
 Name=AuthorParam
 Value=D. Hufnagel/MH
 
-[Parameter6]
-Name=Author
-Value=D. Hufnagel/MH
+[Parameter3]
+Name=FinDate
+Value=08/25
+
+[Parameter4]
+Name=ProjectNameCustom
+Value=UZ_PER_deskbench_terminal
+
+[Parameter5]
+Name=ProjectRevision
+Value=Rev02b
 
 [Configuration1]
 Name=Sources
